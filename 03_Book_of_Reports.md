@@ -29,19 +29,6 @@ This Book of Reports is a key resource for Southern Baptists as we prepare for t
 
 ---
 
-## Convention Officers
-
-| Role | Name | Location |
-|------|------|----------|
-| President | Clint Pressley | Charlotte, NC |
-| First Vice President | Daniel Ritchie | |
-| Second Vice President | Craig Carlisle | |
-| Recording Secretary | Nathan A. Finn | |
-| Registration Secretary | Don Currence | Ozark, MO |
-| Treasurer | Jeff Iorg | Nashville, TN |
-
----
-
 ## Future Annual Meeting Sites
 
 | Year | City | Dates |

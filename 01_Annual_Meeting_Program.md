@@ -18,16 +18,6 @@
 
 ---
 
-## Future Annual Meeting Sites
-
-| Year | Location | Dates |
-|------|----------|-------|
-| 2027 | Indianapolis, Indiana | June 15-16 |
-| 2028 | St. Louis, Missouri | June 13-14 |
-| 2029 | San Antonio, Texas | June 12-13 |
-
----
-
 ## Tuesday Morning — June 9
 
 | Time | Item | Presenter |
