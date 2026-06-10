@@ -15,6 +15,7 @@ This repo is intended as a knowledge base that attendees and AI agents can query
 | [03_Book_of_Reports.md](03_Book_of_Reports.md) | Full Book of Reports — entity summaries, Cooperative Program financials, statistics |
 | [04_Venue_Navigation.md](04_Venue_Navigation.md) | Walking times, skybridge access, rideshare zones, and OCCC internal room guide |
 | [05_Exhibitors.md](05_Exhibitors.md) | All 277 exhibitors with booth numbers, organized by floor section with walking estimates |
+| [06_Daily_Bulletin_Tuesday.md](06_Daily_Bulletin_Tuesday.md) | Tuesday Daily Bulletin — standing rules, messenger procedures, committee rosters, hotel shuttles, missionary prayers, resolution dispositions |
 | [2026_SBC_Annual_Meeting_Events.md](2026_SBC_Annual_Meeting_Events.md) | Complete event schedule June 6–10 — meals, breakouts, fellowships, childcare |
 
 ---
